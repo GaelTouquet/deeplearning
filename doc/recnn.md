@@ -2,6 +2,8 @@
 
 ## Software installation
 
+Make sure you have a usable SSH key setup linked with your GitHub account. If not follow the instructions [here](https://help.github.com/articles/connecting-to-github-with-ssh/).
+
 ```
 git clone git@github.com:GaelTouquet/recnn.git
 cd recnn
